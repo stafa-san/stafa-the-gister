@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stafa-the-gister/static/css/main.d59221e9.chunk.css",
+    "main.js": "/stafa-the-gister/static/js/main.bba3c8b6.chunk.js",
+    "main.js.map": "/stafa-the-gister/static/js/main.bba3c8b6.chunk.js.map",
+    "runtime-main.js": "/stafa-the-gister/static/js/runtime-main.9ae6fc24.js",
+    "runtime-main.js.map": "/stafa-the-gister/static/js/runtime-main.9ae6fc24.js.map",
+    "static/js/2.ae306501.chunk.js": "/stafa-the-gister/static/js/2.ae306501.chunk.js",
+    "static/js/2.ae306501.chunk.js.map": "/stafa-the-gister/static/js/2.ae306501.chunk.js.map",
+    "index.html": "/stafa-the-gister/index.html",
+    "static/css/main.d59221e9.chunk.css.map": "/stafa-the-gister/static/css/main.d59221e9.chunk.css.map",
+    "static/js/2.ae306501.chunk.js.LICENSE.txt": "/stafa-the-gister/static/js/2.ae306501.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ae6fc24.js",
+    "static/js/2.ae306501.chunk.js",
+    "static/css/main.d59221e9.chunk.css",
+    "static/js/main.bba3c8b6.chunk.js"
+  ]
+}
